@@ -127,12 +127,6 @@ Ich, **Jakob Penitsch**, war im Team verantwortlich für:
 | 🧪 `testumgebung` | Testplan und Ergebnisse |
 | 🖼️ `images` | Netzpläne und Screenshots |
 
----
 
-<div align="center">
-
-🔏 *Alle Configs sind anonymisiert. Passwörter, Schlüssel, Tokens und Community-Strings sind durch Platzhalter wie `<PASSWORT>` ersetzt. Die Nexvo GmbH ist eine fiktive Firma für Ausbildungszwecke.*
-
-**📬 Kontakt:** [GitHub](https://github.com/tscheky0)
 
 </div>
